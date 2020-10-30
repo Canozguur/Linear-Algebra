@@ -209,3 +209,4 @@ f = int(input("f değeri giriniz "))
 g = int(input("g değeri giriniz "))
 j = int(input("j değeri giriniz "))
 """
+#
