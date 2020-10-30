@@ -163,11 +163,11 @@ x = int(input("size of row"))
 y = int(input("size of column"))
 
 if x == 2 and y == 2:  # 2  ye 2 olan matrixlerde yapılacak işlemeler için
-  a = int(input("a enter value "))
-  b = int(input("b enter value "))
-  c = int(input("c enter value "))
-  d = int(input("d enter value "))
-  trace = found_of_trace(a,b,c,d)
+    a = int(input("a enter value "))
+    b = int(input("b enter value "))
+    c = int(input("c enter value "))
+    d = int(input("d enter value "))
+    trace = found_of_trace(a,b,c,d)
     pass
 if x == 2 and y == 3:  # 2  ye 3 olan matrixlerde yapılacak işlemeler için
     a = int(input("a enter value "))
